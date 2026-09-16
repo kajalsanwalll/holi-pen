@@ -1,6 +1,7 @@
 Pen Marker
 --
 
+Clone the repo and go live.
 Allow permission for camera    
 Press shift while writing one word and remove when moving to next word.    
 Press spacebar to erase everything!   
